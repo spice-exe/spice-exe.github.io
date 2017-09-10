@@ -5,18 +5,18 @@
 <br>
 <br>
 <br>
-<p align="center">[e n t e r](https://spice-exe.github.io)</p>
+<p align="center"><a href="https://spice-exe.github.io">e n t e r</a></p>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<p align="center">pug<br>scss<br>[bulma](http://bulma.io/)</p>
+<p align="center">pug<br>scss<br><a href="http://bulma.io/">bulma</a></p>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<p align="center">[@spice_exe](https://twitter.com/spice_exe)</p>
+<p align="center"><a href="https://twitter.com/spice_exe">@spice_exe</a></p>
