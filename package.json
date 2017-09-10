@@ -1,0 +1,26 @@
+{
+  "name": "spice-exe.github.io",
+  "version": "0.0.1",
+  "description": "the spice den",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spice-exe/spice-exe.github.io.git"
+  },
+  "author": "spice_exe",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/spice-exe/spice-exe.github.io/issues"
+  },
+  "homepage": "https://github.com/spice-exe/spice-exe.github.io#readme"
+}
